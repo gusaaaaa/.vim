@@ -1,0 +1,3 @@
+[submodule "bundle/tmux-config"]
+	path = bundle/tmux-config
+	url = git://github.com/pivotal/tmux-config.git
