@@ -1,3 +1,6 @@
 [submodule "bundle/tmux-config"]
 	path = bundle/tmux-config
 	url = git://github.com/pivotal/tmux-config.git
+[submodule "bundle/vim-ruby-debugger"]
+	path = bundle/vim-ruby-debugger
+	url = git://github.com/astashov/vim-ruby-debugger.git
